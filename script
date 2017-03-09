@@ -1,0 +1,41 @@
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+display
+ident
+scale
+2 2 2
+display
+move
+3 3 3
+rotate
+z 20
+rotate
+x 20
+rotate
+y 20
+apply
+display
+save
+pic.png
